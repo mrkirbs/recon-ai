@@ -1,4 +1,5 @@
 # recon-ai
+(WARNING I DO NOT RECOMMEND USING THIS IN A PROFESSIONAL SETTING, THIS WAS PRACTICE FOR MYSELF ONLY, MANY VULNERABILITIES MAY BE FOUND (PROMPT INJECTION ETC))
 
 A Python-based network reconnaissance tool that combines Nmap scanning, real CVE lookup from the NVD database, and local AI analysis using Ollama.
 
